@@ -16,5 +16,3 @@
   class or small projects I am developing on my own, I hope some of the material will help you all
  
 
-
-
