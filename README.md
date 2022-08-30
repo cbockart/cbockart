@@ -1,4 +1,5 @@
-![Final-Video (1)](https://user-images.githubusercontent.com/67283232/187324762-382f8de3-57d2-4087-ade7-b7c30f467f68.gif#right)
+![Final-Videoresize](https://user-images.githubusercontent.com/67283232/187324990-2b2fc9d7-0cc0-4b91-9c5b-0ee6f8614bfb.gif)
+
 ### Hi there, I'm Callie Bockart :v:
 
 **Thanks for visiting my page!**
