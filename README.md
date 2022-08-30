@@ -1,9 +1,9 @@
+![Final-Video (1)](https://user-images.githubusercontent.com/67283232/187324762-382f8de3-57d2-4087-ade7-b7c30f467f68.gif#right)
 ### Hi there, I'm Callie Bockart :v:
 
 **Thanks for visiting my page!**
 
-<img style="float: right;" src="[whatever.jpg](https://user-images.githubusercontent.com/67283232/187324421-3c7ee114-3e59-4366-b3e3-04c9e8b284d9.gif)
-)">
+
 - 😄Currently a junior at Iowa State, I am on track to complete the Software Engineering degree by 2024.         
 
 
