@@ -1,7 +1,7 @@
 
 
 <Introduction>
-## Hi there, I'm Callie Bockart :v:
+Hi there, I'm Callie Bockart :v:
 
 ## Thanks for visiting my page! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=CallieBockart.CallieBockart)
 
