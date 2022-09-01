@@ -6,7 +6,7 @@ Hi there, I'm Callie Bockart :v:
 ## Thanks for visiting my page! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=CallieBockart.CallieBockart)
 
 <trying to get the picture alligned>
-<img align="right" alt="GIF" src="file:///C:/Users/14024/Downloads/Final-Videoresize.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/cbockart/cbockart/blob/main/Final-Videoresize.gif" width="408" height="318" />
          
 <Begin self-description>
 - 😄Currently a junior at Iowa State, I am on track to complete the Software Engineering degree by 2024.         
