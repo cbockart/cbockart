@@ -1,4 +1,4 @@
-<![Final-Videoresize](https://user-images.githubusercontent.com/67283232/187324990-2b2fc9d7-0cc0-4b91-9c5b-0ee6f8614bfb.gif)>
+
 
 <Introduction>
 ### Hi there, I'm Callie Bockart :v:
