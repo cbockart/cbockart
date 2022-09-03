@@ -16,7 +16,7 @@ Hi there, I'm Callie Bockart :v:
 - The newest things I am learning this semester is computer architecture, and advance app developement.
   I am most excited for learning assembly and machine langauge (VHDL MIPS) this school year.
   
-- I began my coding jounrey back in 2020, and the most important thing I have learned 
+- I began my coding journey back in 2020, and the most important thing I have learned 
   is that it's never too late to try and learn soemthing new, just because it doesn't 
   come quickly doesn't mean it won't come at all.
   
