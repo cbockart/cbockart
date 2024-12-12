@@ -9,8 +9,8 @@ Hi there, I'm Callie Bockart :v:
 <img align="right" alt="GIF" src="https://github.com/cbockart/cbockart/blob/main/Final-Videoresize.gif" width="408" height="318" />
          
 <Begin self-description>
-- 😄 Recent graduate from Iowa State, I completed a degree in Software Engineering in May 2024.   
-- Please visit the website I created to see some on my work! 
+😄 Recent graduate from Iowa State, I completed a degree in Software Engineering in May 2024.   
+Please visit the website I created to see some on my work! 
          At https://www.colorworksgroup.com/
          
 
